@@ -28,7 +28,7 @@
   "devDependencies": {
     "@types/node": "16.x",
     "@types/react": "17.x",
-    "husky": "7.x",
+    "husky": "8.x",
     "prettier": "2.x",
     "pretty-quick": "3.x",
     "typescript": "4.4.x"
